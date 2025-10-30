@@ -1,0 +1,13 @@
+     16 txt
+     16 sh
+      6 log
+      3 dat
+      3 conf
+      2 so
+      2 md
+      2 hidden_file
+      2 env
+      2 bin
+      2 bash_history
+      1 /today_backup/app
+      1 /project/bin/app
